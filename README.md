@@ -1,7 +1,7 @@
 # Pokemon Project – UTS Pemrograman Web
 
 Credit : Muhammad Yusuf (NIM 122140193)  
-Deployment :
+Deployment : https://pokemon-battles.vercel.app
 
 Ini adalah project UTS mata kuliah Pemrograman Web yang fokusnya ke ekosistem React. Aplikasinya sendiri nge-display katalog Pokémon, ada fitur search, daftar favorit, plus arena simulasi battle yang datanya langsung diambil dari [PokeAPI](https://pokeapi.co/docs/v2). Semua fitur ini dibuat buat nunjukin kemampuan kita dalam bikin komponen, pakai hooks, manage state, routing, dan handle data asynchronous.
 
