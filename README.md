@@ -26,7 +26,7 @@ Ini adalah tadinya project UTS mata kuliah Pemrograman Web, tapi studi kasusnya 
 ```
 src/
 ├─ components/       # UI components yang reusable + pendukung (dock, dialog, card)
-├─ hooks/            # Custom hooks (fetch detail, pagination, favorites, battle)
+├─ hooks/            # Custom hooks (fetch detail, pagination, favorites, battle, state management like context folder but use in here)
 ├─ pages/            # Halaman-halaman utama sesuai rute
 ├─ lib/              # Utilities (helper className, dll.)
 ├─ main.jsx          # Entry point React + setup router
