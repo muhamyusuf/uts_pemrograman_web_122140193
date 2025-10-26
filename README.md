@@ -3,7 +3,7 @@
 Credit : Muhammad Yusuf (NIM 122140193)  
 Deployment : https://pokemon-battles.vercel.app
 
-Ini adalah project UTS mata kuliah Pemrograman Web yang fokusnya ke ekosistem React. Aplikasinya sendiri nge-display katalog Pokémon, ada fitur search, daftar favorit, plus arena simulasi battle yang datanya langsung diambil dari [PokeAPI](https://pokeapi.co/docs/v2). Semua fitur ini dibuat buat nunjukin kemampuan kita dalam bikin komponen, pakai hooks, manage state, routing, dan handle data asynchronous.
+Ini adalah tadinya project UTS mata kuliah Pemrograman Web, tapi studi kasusnya ganti jadi ini merupakan project Praktikum Pertemuan3 yang fokusnya ke ekosistem React. Aplikasinya sendiri nge-display katalog Pokémon, ada fitur search, daftar favorit, plus arena simulasi battle yang datanya langsung diambil dari [PokeAPI](https://pokeapi.co/docs/v2). Semua fitur ini dibuat buat nunjukin kemampuan kita dalam bikin komponen, pakai hooks, manage state, routing, dan handle data asynchronous.
 
 ## Tujuan & Ruang Lingkup
 
