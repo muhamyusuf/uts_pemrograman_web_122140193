@@ -1,4 +1,4 @@
-# Pokemon Project – UTS Pemrograman Web
+# Pokemon Project – Pemrograman Web Prak3
 
 Credit : Muhammad Yusuf (NIM 122140193)  
 Deployment : https://pokemon-battles.vercel.app
